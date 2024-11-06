@@ -159,4 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# The datasets (too large for github)
 data/
+# The models state dict (too large)
+src/models/
